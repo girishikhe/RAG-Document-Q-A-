@@ -1,0 +1,10 @@
+langchain-groq
+langchain
+langchain-community
+langchain-core
+pandas
+python-dotenv
+faiss-cpu
+pymupdf
+langchain-text-splitters
+pymupdf
